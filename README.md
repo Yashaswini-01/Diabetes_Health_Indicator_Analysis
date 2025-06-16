@@ -15,6 +15,8 @@ This project presents a comprehensive analysis of diabetes health indicators usi
 
 The project features a comprehensive three-page interactive dashboard that transforms complex health survey data into actionable insights through advanced Excel visualization techniques. The dashboard provides executive-level KPIs, behavioral trend analysis, and demographic risk assessments with intuitive charts and real-time data filtering capabilities.
 
+![Diabetes Health Indicators Dashboard](Dashboard.png)
+
 **🔗 [View Live Dashboard](<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://northeastern-my.sharepoint.com/personal/tadishetty_y_northeastern_edu/_layouts/15/Doc.aspx?sourcedoc={e772ac07-bdf1-42e7-8f50-5e856872e814}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>)**
 
 ## 📋 Dataset Information
